@@ -1,5 +1,6 @@
 call plug#begin("~/.vim/plugged")
   Plug 'mizlan/termbufm', {'branch': 'main'}
+  Plug 'tomtom/tcomment_vim'
   Plug 'mhinz/vim-startify'
   Plug 'morhetz/gruvbox'
   Plug 'vim-airline/vim-airline'
