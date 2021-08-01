@@ -1,3 +1,4 @@
+let mouse = 'a' 
 let mapleader = ','
 set termguicolors
 set nu rnu
