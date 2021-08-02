@@ -1,2 +1,2 @@
 syntax enable
-colorscheme gruvbox
+colorscheme ghdark 

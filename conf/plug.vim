@@ -1,4 +1,5 @@
 call plug#begin("~/.vim/plugged")
+  Plug 'wojciechkepka/vim-github-dark'
   Plug 'mizlan/termbufm', {'branch': 'main'}
   Plug 'tomtom/tcomment_vim'
   Plug 'mhinz/vim-startify'
